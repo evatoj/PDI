@@ -1,4 +1,4 @@
-# PDI
+# Projeto de implementação de filtros para tratamento de imagens de documentos da época da escravidão no Brasil.
 
 ## Estrutura do projeto
 
