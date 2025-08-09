@@ -5,6 +5,9 @@
 - Imagens de entrada na pasta `/input`
 - Imagens de saída na pasta `/output`
 
+> [!NOTE]
+> Inicialmente, serão aplicados apenas alguns métodos de Processamento Digital de Imagens (PDI) para o tratamento das imagens. Posteriormente, será utilizado OCR para que os documentos possam ser transcritos.
+
 > [!IMPORTANT]
 > A função `salvar_imagem` no arquivo de utilidades `filters\util.py` salva quaisquer imagem no formato `.bmp` para evitar interferências de outros formatos após a aplicação dos filtros. Por exemplo, imagens no formato `.jpg` ou `.jpeg` aplicam filtro de compressão ao serem salvos com a biblioteca `PIL` alterando o resultado dos filtros criados.
 
