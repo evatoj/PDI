@@ -1,5 +1,8 @@
 .vscode/
 
+/fichas
+/imagens
+
 __pycache__/
 *.pyc
 *.pyo
